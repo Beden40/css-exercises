@@ -1,0 +1,19 @@
+.step1{
+   background-color: pink;
+   font-family: verdana,sans-serif; 
+}
+#step2{
+    color: blue;
+    font-size: 32px;
+}
+
+.step1.step3{
+    font-size: 24px;
+}
+
+#step4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
